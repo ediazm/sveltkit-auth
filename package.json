@@ -24,7 +24,8 @@
     "vite": "5.2.10"
   },
   "dependencies": {
-    "@auth/sveltekit": "latest"
+    "@auth/sveltekit": "latest",
+    "newrelic": "^12.2.0"
   },
   "type": "module"
 }
